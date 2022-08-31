@@ -4,7 +4,7 @@
 Blorps are wiggly little bunny slimes, created by Bunny Hearted on a whim, typically found on her head, and named by her community on Twitch. 
 Blorp is free to use under a CC-BY-SA 4.0 license.
 
-The project has been configured for VRChat Physbones and the public Poiyomi Shader, and contains models, blender files, textures, sounds, particles, the facial expressions flipbook, and animations. Animations will need to be adjusted to match your blorp placement.
+The project has been configured for VRChat Physbones and the public Poiyomi Shader, and contains models, blender files, textures, sounds, particles, the facial expressions flipbook, and animations. Animations will need to be adjusted to match your blorp placement (and can be found in the Project Files folder).
 
 [See here for releases.](https://github.com/BunnyHearted/Blorp/releases)
 
