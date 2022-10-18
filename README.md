@@ -1,4 +1,8 @@
+
+
 ![A Blorps Header image, featuring 6 round slime bunnies in various outfits](https://github.com/BunnyHearted/Blorp/blob/main/Github%20Files/BLORPS.png)
+![A bunny bat header image](https://github.com/BunnyHearted/Blorp/blob/main/Github%20Files/1.png)
+![A pumpkin blorps Header image](https://github.com/BunnyHearted/Blorp/blob/main/Github%20Files/2.png)
 
 # Blorps
 Blorps are wiggly little bunny slimes, created by Bunny Hearted on a whim, typically found on her head, and named by her community on Twitch. 
